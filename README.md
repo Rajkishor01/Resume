@@ -1,6 +1,6 @@
 # Resume
 Projects for resume
-## There are 10 projects here
+## There are 9 projects here
 
 
 ### First Project : Car Price Prediction
@@ -21,7 +21,7 @@ Projects for resume
 ### Fourth Project : House Price Prediction
     dataset= kaggle dataset "House Price India"
     model= Linear Regression
-    error= mean_absolute_error
+    error_matrix= mean_absolute_error
 
 ### Fifth Project : Image Classification
     dataset= CIFAR10
@@ -29,3 +29,23 @@ Projects for resume
     accuracy= 73.11℅ (best out of three 'model 3') 
     loss= 0.77699...(model3) 
 
+### Sixth Project : Market Basket Analysis
+    dataset= kaggle basket analysis
+    model= Apriori algorithm and association mining
+    
+
+### Seventh Project : Exploratory Marketing Budget 
+    dataset= kaggle dummy data HSS
+    details= exploratory data analysis on the dataset
+
+### Eighth Project : SPAM E-mail Classification
+    dataset= kaggle e-mail dataset
+    technique= TFIDFVectorizer
+    model= Logistic Regression
+    evaluation_matrix= accuracy score, confusion matrix
+    accuracy= 98.06℅
+
+### Ninth Project : Traffic Sign Detection
+    dataset= GTSRB Dataset
+    model= CNN model(two models) 
+    accuracy= 89.94℅
