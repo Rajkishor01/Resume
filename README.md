@@ -1,6 +1,6 @@
 # Resume
 Projects for resume
-## There are 9 projects here
+## There are 10 projects here
 
 
 ### First Project : Car Price Prediction
@@ -49,3 +49,8 @@ Projects for resume
     dataset= GTSRB Dataset
     model= CNN model(two models) 
     accuracy= 89.94℅
+
+### Tenth Project : RAG(Retrieval augmented generation)
+    dataset= Two pdf files were used - pandas cheat sheet and numpy cheat sheet
+    llm_model = 'meta-llama/Llama-2-7b-chat-hf'
+    sentence transformer = 'sentence-transformers/all-mpnet-base-v2'
