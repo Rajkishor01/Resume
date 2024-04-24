@@ -52,5 +52,5 @@ Projects for resume
 
 ### Tenth Project : RAG(Retrieval augmented generation)
     dataset= Two pdf files were used - pandas cheat sheet and numpy cheat sheet
-    llm_model = 'meta-llama/Llama-2-7b-chat-hf'
+    llm_model = 'meta-llama/Meta-Llama-3-8B'
     sentence transformer = 'sentence-transformers/all-mpnet-base-v2'
