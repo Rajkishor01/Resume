@@ -39,11 +39,11 @@ Projects for resume
     details= exploratory data analysis on the dataset
 
 ### Eighth Project : SPAM E-mail Classification
-    dataset= kaggle e-mail dataset
-    technique= TFIDFVectorizer
-    model= Logistic Regression
-    evaluation_matrix= accuracy score, confusion matrix
-    accuracy= 98.06℅
+    dataset= kaggle spam or ham dataset
+    technique= transformers
+    model= 
+    evaluation_matrix= confusion matrix
+    accuracy= 100%
 
 ### Ninth Project : Traffic Sign Detection
     dataset= GTSRB Dataset
