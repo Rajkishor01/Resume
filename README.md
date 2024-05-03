@@ -41,7 +41,7 @@ Projects for resume
 ### Eighth Project : SPAM E-mail Classification
     dataset= kaggle spam or ham dataset
     technique= transformers
-    model= 
+    model and tokenizer = 'lxyuan/distilbert-base-multilingual-cased-sentiments-student
     evaluation_matrix= confusion matrix
     accuracy= 100%
 
