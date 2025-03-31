@@ -57,3 +57,7 @@ Projects for resume
 
 ### Eleventh Project : Taxi Fare Data Analysis [ https://github.com/Rajkishor01/Resume/blob/main/fare-nyc-data-analysis.ipynb ]
     dataset= kaggle dataset 'nyc-yellow-taxi-trip-data'
+
+### 12th Project: Mcdonald's Stock price prediction [Mcdonald's_Stock_price_prediction.ipynb]
+    dataset= from alpha_vantage using API
+    model= LSTM 
